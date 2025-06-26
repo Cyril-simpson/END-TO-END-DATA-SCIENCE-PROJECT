@@ -12,3 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
+*EXAMPLE*: JSON Request to / predict
+{
+  "features": [5.1, 3.5, 1.4, 0.2]
+}
